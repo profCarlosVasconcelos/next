@@ -1,0 +1,24 @@
+{
+  "name": "next-basic",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.0.0",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "20.8.10",
+    "@types/react": "18.2.36",
+    "css-loader": "^6.8.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.0",
+    "style-loader": "^3.3.3"
+  }
+}
